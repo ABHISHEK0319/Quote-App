@@ -30,9 +30,9 @@
 
     json
         {
-            "_id": "abc123",
-            "content": "Be yourself; everyone else is already taken.",
-            "author": "Oscar Wilde"
+          "id": 85,
+          "quote": "Happiness is not something readymade. It comes from your own actions.",
+          "author": "Dalai Lama"
         }
 
 
